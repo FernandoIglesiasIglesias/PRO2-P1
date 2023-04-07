@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Fernando/CLionProjects/proII/P1/static_list.c
+static_list.h
+C:/Users/Fernando/CLionProjects/proII/P1/static_list.h
+
+C:/Users/Fernando/CLionProjects/proII/P1/static_list.h
+types.h
+C:/Users/Fernando/CLionProjects/proII/P1/types.h
+stdbool.h
+C:/Users/Fernando/CLionProjects/proII/P1/stdbool.h
+stdio.h
+C:/Users/Fernando/CLionProjects/proII/P1/stdio.h
+string.h
+C:/Users/Fernando/CLionProjects/proII/P1/string.h
+stdlib.h
+C:/Users/Fernando/CLionProjects/proII/P1/stdlib.h
+
+C:/Users/Fernando/CLionProjects/proII/P1/types.h
+
